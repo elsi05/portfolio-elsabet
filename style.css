@@ -2,7 +2,7 @@
    padding:0;
    margin:0;
    border:none;
-   background-color:cadetblue;
+   background-color:
    outline:none;
    font-family:Times New Roman,Times,serif;
 }
@@ -82,7 +82,7 @@ header .logo{
 }
 .my-img{
    width: 50%;
-   height: 80%;
+   height: 60%;
    position: absolute;
   
 }
@@ -152,7 +152,6 @@ h1 span{
 .socials {
    display:flex;
    gap:20px;
-   justify-content: center;
 }
 .socials i{
    font-size: 19px;
@@ -160,7 +159,6 @@ h1 span{
    color:#283A55;
    display: flex;
    align-items:center;
-   justify-content: center;
    border: 2px solid #283A55;
    height: 20px;
    width:20px;
